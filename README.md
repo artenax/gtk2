@@ -1,2 +1,2 @@
-# gtk2
-GTK software
+# GTK2
+Collection of GTK2 software.
